@@ -1,0 +1,126 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.loops.Ex6_Fatorial",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_ValidaNota",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.loops.Ex2_ValidaNota",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.loops.Ex3_MaiorEMedia",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_ParOuImpar",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.loops.Ex4_ParOuImpar",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControleDeFluxo",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.sintaxe.ControleDeFluxo",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.sintaxe.MinhaClasse",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.sintaxe.Principal",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch semana1",
+            "request": "launch",
+            "mainClass": "edu.dio.java.begginers.bootcamp.sintaxe.semana1",
+            "projectName": "Dio.Pratiques"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exerc2",
+            "request": "launch",
+            "mainClass": "edu.atividade.pratica.Exerc2",
+            "projectName": "Leonidas"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(1)",
+            "request": "launch",
+            "mainClass": "edu.uninter.atividadePrática.media.Principal",
+            "projectName": "Uninter_Aula3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(2)",
+            "request": "launch",
+            "mainClass": "edu.uninter.desafio.data.Principal",
+            "projectName": "Uninter_Aula3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(3)",
+            "request": "launch",
+            "mainClass": "edu.uninter.estrutura.dados.Principal",
+            "projectName": "Uninter_Aula3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(4)",
+            "request": "launch",
+            "mainClass": "edu.uninter.exercicio3.Principal",
+            "projectName": "Uninter_Aula3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(5)",
+            "request": "launch",
+            "mainClass": "Aula_4/edu.uninter.herancas.Principal",
+            "projectName": "Uninter_Aula4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(6)",
+            "request": "launch",
+            "mainClass": "Aula_4/edu.uninter.herancas.exercices.pratique.Principal",
+            "projectName": "Uninter_Aula4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(7)",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "Uninter_Aula6"
+        }
+    ]
+}
